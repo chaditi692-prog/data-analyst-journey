@@ -1,12 +1,8 @@
-# Data Analyst Journey
-
+SQL-practice
 Hi, I’m Aditi 👋  
 This repository documents my journey of learning Data Analysis as a Class 12 Humanities student.
 
-I created this repo to:
-- practice what I learn
-- track my progress step by step
-- build a strong foundation in data analysis tools
+I created this repo to practice SQL queries.
 
 This is a **learning repository**, not a showcase of expert-level work.
 
@@ -31,12 +27,3 @@ I have completed the following SQL modules:
 - Limiting results using `LIMIT` and `OFFSET`
 - Aggregating data with `COUNT()`
 - Grouping data using `GROUP BY`
-
----
-
-## 📂 Repository Structure
-
-```text
-data-analyst-journey
-└── SQL
-    └── basic_queries.sql
